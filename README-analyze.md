@@ -11,7 +11,7 @@ Setup
 If you clone this to get the submodules in place:
 
 ```console
-$ git submodule init`
+$ git submodule init
 $ git submodule update --remote
 $ npm init
 $ cd packages/truffle-core
